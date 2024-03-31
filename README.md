@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil da Thais Carolina 😁
 
-<h1>Sou Programadora Front-End| Back-End gosto bastante de programr amo tecnologias e nova tendencias.</h1> 
+<h2>Sou Programadora Front-End| Back-End gosto bastante de programr amo tecnologias e nova tendencias.</h2> 
  
 ### Contatos Programadora Front End
  
