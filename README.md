@@ -21,4 +21,5 @@ Sou Programadora Front-End| Back-End gosto bastante de programr amo tecnologias 
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
+  <img align="center" alt="CSS" height="30" width="40" src="https://www.google.com/imgres?q=imagem%20react&imgurl=https%3A%2F%2Fwww.freecodecamp.org%2Fportuguese%2Fnews%2Fcontent%2Fimages%2F2023%2F03%2FEkran-Resmi-2019-11-18-18.08.13.png&imgrefurl=https%3A%2F%2Fwww.freecodecamp.org%2Fportuguese%2Fnews%2Freact-js-para-iniciantes-props-e-state-explicados%2F&docid=GbT-uORALyItbM&tbnid=xY29o5AxdUqcVM&vet=12ahUKEwj1js-f9aOMAxUL5ckDHRMTMkUQM3oECHUQAA..i&w=1242&h=708&hcb=2&ved=2ahUKEwj1js-f9aOMAxUL5ckDHRMTMkUQM3oECHUQAA">
 </div>
