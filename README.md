@@ -22,4 +22,5 @@ Sou Programadora Front-End| Back-End gosto bastante de programr amo tecnologias 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
   <img align="center" alt="React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png">
+   <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/Thais-enf/Thais-enf/blob/940c51731dc57b0b3f5c967b942e4e44a16962a8/imagem%20node.png">
 </div>
