@@ -21,8 +21,8 @@ Sou Programadora Front-End| Back-End gosto bastante de programr amo tecnologias 
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-  <img align="center" alt="React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png">
-   <img align="center" alt="Node.js" height="40" width="60" src="https://github.com/Thais-enf/Thais-enf/blob/ee379efdfe72c26c7eff13391bf0ddd4917c83c2/imagem%20node.png">
-    <img align="center" alt="TypeScript" height="40" width="60" src="https://github.com/Thais-enf/Thais-enf/blob/0a31828e06439516418adc2dd020fa6d0e567d63/imagem%20typescript.png">
-    <img align="center" alt="Node.js" height="40" width="60" src="https://github.com/Thais-enf/Thais-enf/blob/940c51731dc57b0b3f5c967b942e4e44a16962a8/imagem%20node.png">
+  <img align="center" alt="React" height="35" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png">
+   <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/Thais-enf/Thais-enf/blob/ee379efdfe72c26c7eff13391bf0ddd4917c83c2/imagem%20node.png">
+    <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/Thais-enf/Thais-enf/blob/0a31828e06439516418adc2dd020fa6d0e567d63/imagem%20typescript.png">
+    
 </div>
